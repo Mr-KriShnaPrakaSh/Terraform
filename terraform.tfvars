@@ -1,0 +1,5 @@
+aws_region             = "ap-south-1"
+env_name               = "uat"
+db_username            = "admin"
+db_password            = "CHANGE_ME"
+db_instance_class      = "db.t3.micro"
